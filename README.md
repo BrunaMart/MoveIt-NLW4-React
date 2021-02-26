@@ -51,7 +51,7 @@ $ npm install
 ### Front-end
 ```bash
 # Rodar aplicação web
-$ npm start
+$ npx dev
 ```
 
 ## Tecnologias
